@@ -21,7 +21,7 @@ Life Insurance
 
 </nav> 
 <div class="title">
-<h1><center>Life Insurance Corporation of VIT</center></h1>
+<h1><center>Life Insurance Corporation of IERT</center></h1>
 </div>
 <div class="links">
 <div class="subtitle">
