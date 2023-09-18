@@ -1,4 +1,4 @@
-# insurancemanagement
+# Insurance Policy Site
 This project uses MySQL and PHP. This project mainly focuses on effective use of database and data in it, i.e. database management.  
 In this project, a person can enter the client details as well as their policy data. The user can view, edit, and delete the data in the database using the web page.
 
